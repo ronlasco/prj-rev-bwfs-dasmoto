@@ -1,0 +1,36 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+	font-size: 100px;	
+  	font-weight: bold;
+  	color: khaki;
+  	text-align: center;
+  	background-image: url("../images/image1.jpeg");
+}
+
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.brushBg {
+	background-color: mediumspringgreen;
+}
+
+.framesBg {
+	background-color: lightcoral;
+}
+
+.paintBg {
+	background-color: skyblue;
+}
+
+.price {
+	color: blue;
+	font-weight: bold;
+}
